@@ -1,0 +1,82 @@
+{
+    "displayname": "Millimetrado",
+    "sorting-handle": 2000,
+
+    "styles": {
+        "background-color": "#fefcf3",
+        "color": "hsl(20, 50%, 50%)",
+        "line-width": 1,
+        "line-style": "solid",
+
+        "plot": {},
+
+        "axis": {
+            "color": "#e0b676",
+            "line-width": 1
+        },
+
+        "axis-label": {
+        },
+                        
+        "grid": {
+            "color": "hsl(20,80%,90%)",
+            "line-width": 1.5
+        },
+        
+        "secondary-grid": {
+            "color": "#ecd2d0",
+            "line-style": "solid"
+        },
+                        
+        "tick": {
+            "color": "hsl(20,80%,90%)",
+            "width": 1.5,
+
+            "weekend": {
+                "width": 1.5,
+                "color": "red",
+            },
+
+            "secondary": {
+                "width": 1,
+                "height": 4,
+                "color": "#ecd2d0",
+            }
+        },
+        
+        "ticklabel": {
+            "font-size": 14,
+            "font-weight": "lighter",
+            "weekend": {
+                "color": "#FF8080",
+            },
+
+            "secondary": {
+                "color": "lightgray",
+            }
+        },
+
+        "ruler-line": {
+            "color": "black",
+        },
+
+        "ruler-projection-line": {
+            "color": "black"
+        },
+
+        "ruler-value": {
+            "border-color": "hsl(20, 70%, 60%)",
+            "color": "hsl(20, 70%, 60%)",
+            "font-size": 14
+        },
+
+        "origins": {
+            "color": "hsl(20, 50%, 50%)",
+            "line-width": 0
+        },
+
+        "title": {
+            "font-weight": "lighter"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "displayname": "Gnuplot hardcore",
+    "sorting-handle": 2200,
+
+    "styles": {
+        "background-color": "white",
+        "color": "black",
+        "antialiasing": false,
+        "line-width": 1,
+        "line-style": "solid",
+
+        "plot": {},
+
+        "axis": {
+        },
+
+        "axis-label": {
+            "font-size": 16,
+            "font-weight": "normal"
+        },
+                        
+        "grid": {
+        },
+        
+        "secondary-grid": {
+            "line-width": 0,
+            "line-style": "solid",
+            "color": "white"
+        },
+                        
+        "tick": {
+            "width": 1,
+
+            "weekend": {
+                "width": 1,
+                "color": "red",
+            },
+
+            "secondary": {
+                "width": 1,
+                "height": 4,
+            }
+        },
+        
+        "ticklabel": {
+            "font-size": 16,
+            "font-weight": "normal",
+            "weekend": {
+                "color": "red",
+            },
+
+            "secondary": {
+            }
+        },
+
+        "ruler-line": {
+            "color": "black",
+        },
+
+        "ruler-projection-line": {
+            "color": "black"
+        },
+
+        "ruler-value": {
+            "border-color": "black",
+            "font-size": 14
+        },
+
+        "origins": {
+            "line-width": 2
+        },
+
+        "title": {
+            "font-weight": "normal"
+        },
+
+        "legend": {
+            "font-size": 16
+        }
+    }
+}
